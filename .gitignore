@@ -45,3 +45,8 @@ Thumbs.db
 
 # Model files (large binary files)
 models/*.bin
+
+# DLL dependencies (can be restored from documentation)
+deps/*.dll
+deps/native/*.dll
+deps/runtimes/
